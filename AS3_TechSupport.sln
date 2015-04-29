@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS3_TechSupport", "AS3_TechSupport\AS3_TechSupport.csproj", "{01F0D755-8DF4-4FE2-BAAD-D2C0FF36C218}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{7ADD3D7E-58A9-4DA4-98C5-7DF9BDE487DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{01F0D755-8DF4-4FE2-BAAD-D2C0FF36C218}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01F0D755-8DF4-4FE2-BAAD-D2C0FF36C218}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01F0D755-8DF4-4FE2-BAAD-D2C0FF36C218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ADD3D7E-58A9-4DA4-98C5-7DF9BDE487DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADD3D7E-58A9-4DA4-98C5-7DF9BDE487DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADD3D7E-58A9-4DA4-98C5-7DF9BDE487DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADD3D7E-58A9-4DA4-98C5-7DF9BDE487DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
